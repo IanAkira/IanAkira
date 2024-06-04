@@ -5,8 +5,8 @@ I am a college student at Unisul in Brazil, i'm currently learing how to program
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![IanAkira's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![IanAkira's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![IanAkira's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IanAkira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/IanAkira/github-readme-stats#gh-dark-mode-only)
+[![IanAkira's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IanAkira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/IanAkira/github-readme-stats#gh-light-mode-only)
 
 
 ## Hobbies 🐱‍👤
