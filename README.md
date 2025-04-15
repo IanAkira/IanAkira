@@ -1,11 +1,11 @@
 ## Hi
 
-My name is Ian Akira Fujimori Gaspar - I'am a college student at Unisul in Brazil studying Computer Science.  At the moment the main thing I'am doing is studying and trying to improve at Java.
+My name is Ian Akira Fujimori Gaspar - I'am a college student at Unisul in Brazil studying Computer Science.  At the moment the main thing I'am doing is studying and trying to improve at Java and learn what i can about developing A.I.
 
 ## Languages that I speak
 
-- English
-- Portuguese
+- English (Intermediate)
+- Portuguese (Native)
 
 ## Tools
 
