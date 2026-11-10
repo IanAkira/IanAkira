@@ -1,31 +1,22 @@
-## Hi
+# Ian Akira Fujimori Gaspar
 
-My name is Ian Akira Fujimori Gaspar - I'am a college student at Unisul in Brazil studying Computer Science.  At the moment the main thing I'am doing is trying to learn more about how to work and do things with A.I to get a chance to work with it and just for fun aswell.
+Estudante de Ciência da Computação na Unisul (6ª fase), em Florianópolis. Trabalho na ponte entre negócio e IA: entendo a dor de quem usa, prototipo com Claude Code e OpenAI Codex e só considero pronto o que foi testado.
 
-## Languages that I speak
+## Destaques
 
-- English (Advanced)
-- Portuguese (Native)
+- **[O Mercado de Trabalho na Era da IA](https://ianakira.github.io/visualizacao-de-dados/)**: painel com 30 mil registros contado como uma linha do tempo (passado, presente e futuro), com gráficos em Chart.js e guias de leitura em linguagem simples. [Código](https://github.com/IanAkira/visualizacao-de-dados)
+- **Plataforma de gestão e mapeamento 3D de loteamentos** (privada, Be Human, 2026): principal contribuidor, com 89 commits, em um sistema Next.js e TypeScript usado por corretores no litoral sul de SC, com CRM, mapa 3D e mais de 81 mil imóveis importados.
+- **[Sistema de empréstimo de ferramentas](https://github.com/IanAkira/EmprestimoDeFerramenta)**: aplicação em Java e MySQL feita em equipe, com [testes JUnit e integração contínua](https://github.com/HenriqueBent0/A3GestaoeQualidadedeSoftware) no GitHub Actions.
+- **[BotPython](https://github.com/IanAkira/BotPython)**: bot que aprende as respostas que o usuário ensina.
 
-## Tools
+## Stack
 
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+TypeScript · JavaScript · React · Next.js · Tailwind CSS · Python · Java · SQL (MySQL, SQLite) · Three.js · Chart.js · Git e GitHub Actions
 
-## Studying
+## Idiomas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Português (nativo) · Inglês (avançado, C1)
 
-## Github
+## Contato
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IanAkira&theme=dark)](https://git.io/streak-stats)
-
-## Socials
-
-These are a few socials that I have:
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/ian-gaspar/)
